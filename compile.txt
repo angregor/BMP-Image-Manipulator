@@ -1,0 +1,1 @@
+g++ main.cpp bmp_parse.cpp -o bit

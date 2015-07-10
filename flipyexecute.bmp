@@ -1,0 +1,1 @@
+./bit TestImage.bmp flipy OutImage.bmp
